@@ -1,7 +1,7 @@
 ﻿# SPRING BOOT POSTGRESQL CRUD
  ## POST REQUEST - USER REGISTRATION: http://localhost:8181/api/users
  > Success response:
- ![post-success](https://github.com/user-attachments/assets/dcc71893-07e1-498b-ab7a-badef9c7624a)
+ ![post-success](https://github.com/user-attachments/assets/c566615a-3e3e-4128-85d2-7a4914e98f21)
  > Error response:
  ![post-error](https://github.com/user-attachments/assets/2b2c36ba-7464-49d9-8cce-44dd4e1070c4)
  ## GET REQUEST - USERS LIST: http://localhost:8181/api/users
