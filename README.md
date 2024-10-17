@@ -15,6 +15,7 @@
  > [!TIP]
  > Success response:
  ![get-by-id-success](https://github.com/user-attachments/assets/a6173c1e-50be-4653-8d93-cdc30682d223)
+ 
  > [!CAUTION]
  > Error response:
  ![get-by-id-error](https://github.com/user-attachments/assets/c3182634-9aac-4eef-8d9d-9436b6212d09)
@@ -30,6 +31,7 @@
  > [!TIP]
  > Success response:
  ![delete-success](https://github.com/user-attachments/assets/fed714dc-3ac9-4743-8591-567ed43a0104)
+ 
  > [!CAUTION]
  > Error response:
  ![delete-error](https://github.com/user-attachments/assets/8d44244a-bd1f-41e6-b29a-fcbb5b0a49b9)
